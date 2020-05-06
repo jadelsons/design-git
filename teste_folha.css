@@ -1,0 +1,35 @@
+main {
+	text-align: center;
+	background: linear-gradient(#FEFEFE, #888888);
+}
+
+.titulo {
+	background-color: #aaaaaa;
+	padding: 10px;
+	margin-top: 0px;
+	border-radius: 0px;
+	text-align: right;
+	font-size: 20px;
+}
+
+.paragrafo {
+	font-family: Helvetica, sans-serif; 
+	font-size: 14px; 
+	font-weight: bold;
+}
+
+li {
+	font-size: 12px;
+}
+
+li strong {
+	font-style: italic;
+}
+
+
+footer {
+	background: #888888;
+	padding: 10px;
+	margin-top: -9px;
+}
+
